@@ -230,7 +230,7 @@
             this.lstPrayer.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.lstPrayer.BackColor = System.Drawing.Color.Honeydew;
+            this.lstPrayer.BackColor = System.Drawing.Color.White;
             this.lstPrayer.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lstPrayer.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.colNum,
